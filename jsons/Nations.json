@@ -1,1 +1,29 @@
+[
+// Civilizations 
+  {
+		"name": "Pama–Nyungan",
+		"leaderName": "Bindi",
+		"adjective": ["Pama–Nyungan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
 
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+        "declaringWar": "Enough! The patience of my people has run dry. For every spear you raise against us, we shall answer with ten! Prepare yourselves, for the earth will tremble beneath the march of our warriors, and the echoes of your defiance shall fade into nothingness!",
+		"attacked": "Speak plainly, for your actions speak louder than your words. If your intent is harm, know that my people will see through it. We do not seek conflict, but neither will we shrink from it.",
+		"defeated": "The stars betray us, but I will not bow to their will! Hear me, my people, this defeat is but a shadow over our light. We will rise from this ruin, clawing back the honor stolen from us. Let the world tremble, for we will not fade quietly into the night!",
+		"introduction": "I am the chosen guardian of my people and the speaker of our ancestral wisdom. We come in peace, with open hands and minds, seeking the kinship of those who share this land beneath the great sky",
+
+		"neutralHello": "Greetings, traveler. May the winds guide you and the earth provide for your journey. What brings you to our lands?",
+		"hateHello": "You dare step into our domain unbidden? Speak quickly, for my patience thins like the setting sun. Choose your words wisely, lest they be your last.",
+
+		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
+
+		"outerColor": [227, 194, 168],
+		"innerColor": [51, 41, 33],
+		"uniqueName": "Dreamtime",
+		"uniques":["[+2 Food] [in capital]"],
+		"cities": ["Çatalhöyük", "Alisar", "Höyük", "Melid"]
+	}
+]
