@@ -51,6 +51,7 @@
 		"innerColor": [120, 61, 2],
 		"uniqueName": "Anglo-Saxons of England",
 		"uniques":["[+2 Culture] from [Natural Wonder] tiles [in all cities]"],
-		"cities": ["London"]
+		"cities": ["Londonia", "Euruic", "Cantvaria", "Oxeneford", "Norwic", "Snotingeham", "Grentebrige",
+			       "Wintonia", "Bristou", "Sarisberie"]
     }
 ]
