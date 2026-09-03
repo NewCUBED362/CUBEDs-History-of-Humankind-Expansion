@@ -24,6 +24,7 @@
 		"innerColor": [51, 41, 33],
 		"uniqueName": "Dreamtime",
 		"uniques":["[+2 Food] [in capital]"],
-		"cities": ["Çatalhöyük", "Alisar", "Höyük", "Melid"]
+		"cities": ["Kawuka", "Marru-papu", "Warda-warda", "Kurla-purru", "Pari-diltya",
+			       "Muna-thiri", "Kangkuwulunha", "Marda-purru-purru", "Wabmara-kudna", "Muna-warliri"]
 	}
 ]
