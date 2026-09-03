@@ -20,8 +20,8 @@
 
 		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
 
-		"outerColor": [227, 194, 168],
-		"innerColor": [51, 41, 33],
+		"outerColor": [255, 129, 18],
+		"innerColor": [120, 61, 2],
 		"uniqueName": "Dreamtime",
 		"uniques":["[+2 Food] [in capital]"],
 		"cities": ["Kawuka", "Marru-papu", "Warda-warda", "Kurla-purru", "Pari-diltya",
