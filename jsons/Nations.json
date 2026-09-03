@@ -78,6 +78,7 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Cooperative Spirit",
 		"uniques":["[+1 Production] from [Great Improvement] tiles [in all cities]"],
-		"cities": ["Caral", "Huayto", "Huaricanga", "Shaura", "Upaca"]
+		"cities": ["Caral", "Huayto", "Huaricanga", "Shaura", "Upaca", "Miraya",
+		           "Lurihuasi", "Huaura", "Huacachi", "Caballete"]
 	}
 ]
