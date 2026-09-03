@@ -47,8 +47,8 @@
 
 		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
 
-		"outerColor": [255, 129, 18],
-		"innerColor": [120, 61, 2],
+		"outerColor": [109, 2, 0],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Anglo-Saxons of England",
 		"uniques":["[+2 Culture] from [Natural Wonder] tiles [in all cities]"],
 		"cities": ["Londonia", "Euruic", "Cantvaria", "Oxeneford", "Norwic", "Snotingeham", "Grentebrige",
