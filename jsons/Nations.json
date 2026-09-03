@@ -23,7 +23,7 @@
 		"outerColor": [255, 129, 18],
 		"innerColor": [120, 61, 2],
 		"uniqueName": "Dreamtime",
-		"uniques":["[+2 Food] [in capital]"],
+		"uniques":["[+2 Culture] from [Natural Wonder] tiles [in all cities]"],
 		"cities": ["Kawuka", "Marru-papu", "Warda-warda", "Kurla-purru", "Pari-diltya",
 			       "Muna-thiri", "Kangkuwulunha", "Marda-purru-purru", "Wabmara-kudna", "Muna-warliri"]
 	}
