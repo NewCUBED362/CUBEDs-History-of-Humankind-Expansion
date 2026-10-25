@@ -2,7 +2,7 @@
 // Civilizations 
   {
 		"name": "Pama–Nyungan",
-		"leaderName": "Bindi",
+		"leaderName": "Pemulwuy",
 		"adjective": ["Pama–Nyungan"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -29,7 +29,7 @@
 	},
     {
 		"name": "Anglo–Saxon",
-		"leaderName": "William",
+		"leaderName": "Æscwine",
 		"adjective": ["Anglo–Saxon"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
