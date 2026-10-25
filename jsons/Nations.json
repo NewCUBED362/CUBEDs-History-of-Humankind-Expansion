@@ -105,6 +105,6 @@
 		"innerColor": [184, 132, 7],
 		"uniqueName": "Raid Masters of Assyria",
 		"uniques":["[+100]% Yield from pillaging tiles"],
-		"cities": ["Nineveh"]
+		"cities": ["Nineveh", "Assur", "Nimrud", "Kar-Tukulti-Ninurta", "Dur-Sharrukin", "Halab", "Carchemish", "Kanesh", "Harran", "Imgur-Enlil", "Shubat-Enlil"]
 	}
 ]
