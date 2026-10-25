@@ -131,6 +131,7 @@
 		"innerColor": [196, 23, 65],
 		"uniqueName": "All Under Heaven",
 		"uniques":["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
-		"cities": ["Xianyang", "Handan", "Linzi", "Chengdu", "Daliang", "Ying", "Xinzheng", "Shouchun", "Jinyang", "Luoyang", "Tao"]
+		"cities": ["Xianyang", "Handan", "Linzi", "Chengdu", "Daliang", "Ying", "Xinzheng", "Shouchun", "Jinyang", "Luoyang", "Tao",
+		           "Nanyang", "Yingyang", "Qufu", "Jiangling"]
 	}
 ]
