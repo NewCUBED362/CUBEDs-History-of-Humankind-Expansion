@@ -130,7 +130,7 @@
 		"outerColor": [63, 166, 165],
 		"innerColor": [196, 23, 65],
 		"uniqueName": "All Under Heaven",
-		"uniques":["[+100]% Yield from pillaging tiles"],
+		"uniques":["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
 		"cities": ["Xianyang"]
 	}
 ]
