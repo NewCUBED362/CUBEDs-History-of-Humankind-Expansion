@@ -101,8 +101,8 @@
 
 		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
 
-		"outerColor": [23, 126, 137],
-		"innerColor": [52, 58, 26],
+		"outerColor": [250, 255, 239],
+		"innerColor": [184, 132, 7],
 		"uniqueName": "Raid Masters of Assyria",
 		"uniques":["[+100]% Yield from pillaging tiles"],
 		"cities": ["Nineveh"]
