@@ -85,7 +85,7 @@
 		"name": "Assyria",
 		"leaderName": "Ashurbanipal",
 		"adjective": ["Assyrian"],
-		"startBias": ["Hill"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
