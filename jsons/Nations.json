@@ -153,8 +153,8 @@
 
 		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
 
-		"outerColor": [63, 166, 165],
-		"innerColor": [196, 23, 65],
+		"outerColor": [70, 0, 118],
+		"innerColor": [240, 199, 0],
 		"uniqueName": "The Glory of Rome",
 		"uniques":["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
 		"cities": ["Rome"]
