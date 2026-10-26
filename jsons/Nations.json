@@ -156,7 +156,7 @@
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
 		"uniqueName": "The Glory of Rome",
-		"uniques":["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
+		"uniques":["[+18]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Rome", "Antium", "Cumae", "Neapolis", "Ravenna", "Arretium", "Mediolanum", "Arpinum", "Circei", "Setia",
 			       "Satricum", "Ardea", "Ostia", "Velitrae", "Viroconium", "Tarentum", "Brundisium"]
 	}
