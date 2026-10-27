@@ -173,5 +173,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [166, 135, 199],
 		"cities": ["Mparntwe"]
+	},
+	// Merchant
+	{
+		"name": "Yirrkala",
+		"adjective": ["Yolngu"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We only wanted to trade, until you appeared.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 242, 116],
+		"cities": ["Yirrkala"]
 	}
 ]
