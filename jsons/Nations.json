@@ -210,7 +210,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We preffer to die instead of serving you.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [235, 0, 0],
+		"innerColor": [138, 15, 15],
 		"cities": ["Almaty"]
 	}
 ]
