@@ -159,5 +159,19 @@
 		"uniques":["[+18]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Rome", "Antium", "Cumae", "Neapolis", "Ravenna", "Arretium", "Mediolanum", "Arpinum", "Circei", "Setia",
 			       "Satricum", "Ardea", "Ostia", "Velitrae", "Viroconium", "Tarentum", "Brundisium"]
+	},
+	//// CITY STATES
+	// CULTURED
+	{
+		"name": "Mparntwe",
+		"adjective": ["Arrernte"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We only wanted to do philosophy, until you appeared.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185, 148, 224],
+		"cities": ["Mparntwe"]
 	}
 ]
