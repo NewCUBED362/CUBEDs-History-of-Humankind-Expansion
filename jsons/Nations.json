@@ -200,4 +200,17 @@
 		"innerColor": [89, 137, 189],
 		"cities": ["Buansa"]
 	},
+	// Militarists
+	{
+		"name": "Almaty",
+		"adjective": ["Almaty"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We preffer to die instead of serving you.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [235, 0, 0],
+		"cities": ["Almaty"]
+	}
 ]
