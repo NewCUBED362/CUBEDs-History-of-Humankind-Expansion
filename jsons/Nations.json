@@ -181,8 +181,8 @@
 
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
-		"uniqueName": "The Glory of Rome",
-		"uniques":["[+18]% Production towards any buildings that already exist in the Capital"],
+		"uniqueName": "Monument Builders",
+		"uniques":["[+20]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Thebes", "Memphis", "Heliopolis", "Elephantine", "Alexandria", "Pi-Ramesses", "Giza", "Byblos", "Akhetaten",
 			       "Hieraconpolis", "Abydos", "Asyut", "Avaris", "Lisht", "Buto", "Edfu"]
 	},
