@@ -186,5 +186,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [235, 235, 87],
 		"cities": ["Yirrkala"]
-	}
+	},
+	// Maritime
+	{
+		"name": "Buansa",
+		"adjective": ["Sulu"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We only wanted to do sail the seas, until you appeared.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [115, 173, 235],
+		"cities": ["Buansa"]
+	},
 ]
