@@ -212,7 +212,7 @@
 		"uniqueName": "Blood and Iron",
 		"uniques":["[+20]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Berlin", "Köln", "Frankfurt am Main", "Potsdam", "Düsseldorf", "Hannover", "Magdeburg", "Charlottenburg", "Essen",
-			       "Königsberg", "Duisburg", "Asyut", "Avaris", "Lisht", "Buto", "Edfu"]
+			       "Königsberg", "Duisburg", "Dortmund", "Halle an der Saale", "Aachen", "Kiel", "Bochum"]
 	},
 	//// CITY STATES
 	// CULTURED
