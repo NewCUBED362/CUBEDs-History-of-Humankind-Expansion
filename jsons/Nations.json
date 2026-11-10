@@ -210,7 +210,7 @@
 		"outerColor": [252, 206, 24],
 		"innerColor": [0, 0, 0],
 		"uniqueName": "Blood and Iron",
-		"uniques":["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"uniques":["[+15]% Strength <for [Military] units> <in [Enemy Land] tiles>"],
 		"cities": ["Berlin", "Köln", "Frankfurt am Main", "Potsdam", "Düsseldorf", "Hannover", "Magdeburg", "Charlottenburg", "Essen",
 			       "Königsberg", "Duisburg", "Dortmund", "Halle an der Saale", "Aachen", "Kiel", "Bochum"]
 	},
