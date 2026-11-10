@@ -191,7 +191,7 @@
 		"name": "Prussia",
 		"leaderName": "Friedrich",
 		"adjective": ["Prussian"],
-		"startBias": ["Grassland"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
