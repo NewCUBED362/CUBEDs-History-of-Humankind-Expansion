@@ -237,7 +237,8 @@
 		"outerColor": [247, 214, 1],
 		"innerColor": [202, 20, 20],
 		"uniqueName": "Glory of the Manikongo",
-		"uniques":["[+15]% Strength <for [Military] units> <in [Enemy Land] tiles>"],
+		"uniques":["[+25]% Strength <when fighting in [{Friendly} {Jungle}] tiles>",
+		           "[+10]% Production when constructing [Archer] units [in all cities]"],
 		"cities": ["Kabasa", "Köln", "Frankfurt am Main", "Potsdam", "Düsseldorf", "Hannover", "Magdeburg", "Charlottenburg", "Essen",
 			       "Königsberg", "Duisburg", "Dortmund", "Halle an der Saale", "Aachen", "Kiel", "Bochum"]
 	},
