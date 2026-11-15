@@ -234,8 +234,8 @@
 
 		"tradeRequest": "Our offer reaches you like the first light of dawn. Speak of what you seek and what you bring, and together we shall build a bond as steady as the stones of the earth.",
 
-		"outerColor": [252, 206, 24],
-		"innerColor": [0, 0, 0],
+		"outerColor": [247, 214, 1],
+		"innerColor": [202, 20, 20],
 		"uniqueName": "Glory of the Manikongo",
 		"uniques":["[+15]% Strength <for [Military] units> <in [Enemy Land] tiles>"],
 		"cities": ["Kabasa", "Köln", "Frankfurt am Main", "Potsdam", "Düsseldorf", "Hannover", "Magdeburg", "Charlottenburg", "Essen",
