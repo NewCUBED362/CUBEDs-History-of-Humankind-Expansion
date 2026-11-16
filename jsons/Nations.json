@@ -243,10 +243,10 @@
 			       "Kwango", "Mbuji-Mayi", "Mbanza Mpangu", "Bakavu", "Sanga", "Katango", "Mbanza Wembo"]
 	},
 	{
-		"name": "France",
-		"leaderName": "Napoleon",
-		"adjective": ["French"],
-		"startBias": ["Grassland"],
+		"name": "Francia",
+		"leaderName": "Charlemagne",
+		"adjective": ["Frankish"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -267,7 +267,7 @@
 		"uniqueName": "Ancien Régime",
 		"uniques":["[+25]% Strength <when fighting in [{Friendly} {Jungle}] tiles>",
 		           "[+10]% Production when constructing [Archer] units [in all cities]"],
-		"cities": ["Paris", "Mbumbi", "Mbamba", "Mbanza Nsundi", "Mbwila", "Mpinda", "Kwila", "Mbanza Mbata", "Kinchassa",
+		"cities": ["Aquisgranum", "Mbumbi", "Mbamba", "Mbanza Nsundi", "Mbwila", "Mpinda", "Kwila", "Mbanza Mbata", "Kinchassa",
 			       "Kwango", "Mbuji-Mayi", "Mbanza Mpangu", "Bakavu", "Sanga", "Katango", "Mbanza Wembo"]
 	},
 	//// CITY STATES
