@@ -1,0 +1,62 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Anglo–Saxon
+  rotate: false
+  xy: 298, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Assyria
+  rotate: false
+  xy: 406, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Caral
+  rotate: false
+  xy: 298, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Francia
+  rotate: false
+  xy: 4, 102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Kongo
+  rotate: false
+  xy: 406, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pama–Nyungan
+  rotate: false
+  xy: 162, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Prussia
+  rotate: false
+  xy: 4, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Qin
+  rotate: false
+  xy: 162, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
