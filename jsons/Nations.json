@@ -266,8 +266,8 @@
 		"innerColor": [239, 236, 148],
 		"uniqueName": "Laudes Imperiales",
 		"uniques":["Gain [60] [Faith] <upon conquering a city>"],
-		"cities": ["Aquisgranum", "Mbumbi", "Mbamba", "Mbanza Nsundi", "Mbwila", "Mpinda", "Kwila", "Mbanza Mbata", "Kinchassa",
-			       "Kwango", "Mbuji-Mayi", "Mbanza Mpangu", "Bakavu", "Sanga", "Katango", "Mbanza Wembo"]
+		"cities": ["Aquisgranum", "Colonia", "Trier", "Parisius", "Reganesburg", "Mettis", "Mogontia", "Verona", "Soissons",
+			       "Constantia", "Strasburg", "Mbanza Mpangu", "Bakavu", "Sanga", "Katango", "Mbanza Wembo"]
 	},
 	//// CITY STATES
 	// CULTURED
